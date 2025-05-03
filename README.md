@@ -24,7 +24,11 @@ GitHub (for version control and sharing)
 
 
 ## Screenshots
-![Screenshot (12)](https://github.com/user-attachments/assets/8ab25f27-2f7d-49fe-a49c-fc330b3c6120)png
+![Screenshot (12)](https://github.com/user-attachments/assets/8ab25f27-2f7d-49fe-a49c-fc330b3c6120)
+
+Author-Chandan Shakya
+
+
 
 
 ## How to Use
